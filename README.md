@@ -6,6 +6,7 @@ Also on [nicolasying*keybase.io](https://keybase.io/nicolasying).
 
 Since I am also a beginner in digital privacy, so this is mere a notice for a potentially better way to fight against omni-surveillance. Yet no advocacy is expressed :)
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF2G/JQBEAC8lM8OycINPWlTfKuIGMmCNAYMjdEP7EFWKaZfLIkjsTABrwHj
@@ -190,3 +191,4 @@ TnTjU4SNXlkFiFL2tau8vpnDCqeeA+i02AqqnKoUqpkz3DbsHi+RQPVF8Juu/IJw
 tIuGHpHla3sLLamwxu87kQnkmwxCT43c3Cm6haUPomtCDw==
 =B/ht
 -----END PGP PUBLIC KEY BLOCK-----
+```
